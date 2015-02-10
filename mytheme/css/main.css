@@ -1,0 +1,17 @@
+/* line 5, ../scss/includes/_styles.scss */
+h1 {
+  color: red;
+}
+
+/* line 6, ../scss/includes/_styles.scss */
+.container {
+  color: #333333;
+}
+/* line 8, ../scss/includes/_styles.scss */
+.container a {
+  color: #666;
+}
+/* line 10, ../scss/includes/_styles.scss */
+.container a:hover {
+  color: #888;
+}

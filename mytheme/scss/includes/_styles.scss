@@ -1,0 +1,15 @@
+////////////////////////
+// Add your look-and-feel CSS here.
+////////////////////////
+body{
+  background:url(../images/confectionary.png);
+}
+h1{color: red;}
+.container{
+  color: #333333;
+  a{
+    color: #666;
+    &:hover{color: #888;}
+  }
+  
+}
